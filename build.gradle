@@ -1,0 +1,33 @@
+buildscript {
+    repositories {
+        jcenter()
+        google()
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.0.0'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        google()
+        mavenCentral()
+    }
+}
+
+ext {
+    buildToolsVersion = '26.0.2'
+    compileSdkVersion = 26
+    minSdkVersion = 16
+    targetSdkVersion = 26
+}
+
+ext.SUPPORT_LIBRARY_VERSION = '26.1.0'
+ext.BUTTERKNIFE_VERSION = '8.8.1'
+ext.RETROFIT_VERSION = '2.3.0'
+ext.DAGGER_VERSION = '2.12'
+ext.CHUCK_VERSION = '1.1.0'

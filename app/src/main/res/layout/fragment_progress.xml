@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.ContentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ViewFlipper
+        android:id="@+id/viewFlipperState"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/view_state_loading" />
+
+        <include layout="@layout/view_state_data" />
+
+        <include layout="@layout/view_state_empty" />
+
+        <include layout="@layout/view_state_error" />
+
+    </ViewFlipper>
+
+</android.support.v7.widget.ContentFrameLayout>

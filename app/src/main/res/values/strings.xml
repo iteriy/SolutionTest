@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Solution</string>
+
+    <string name="unknown_server_error_title">Неизвестная ошибка сервера</string>
+    <string name="internet_error_title">Проблемы с соединением</string>
+    <string name="internet_error_message">Возможно, у Вас пропал интернет, или произошли какие-то проблемы с сервером</string>
+    <string name="update">Обновить</string>
+    <string name="error">Ошибка</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="pandora_sorry">Pandora isn’t available where you are… yet. Pandora is only available in the U.S. right now – but we are working on bringing our music service to other parts of the world.</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="color_primary">@color/white</color>
+    <color name="color_primary_dark">@color/white_two</color>
+    <color name="color_accent">@color/cerulean</color>
+
+    <color name="shadow_start_color">#3D000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_two">#e0e0e0</color>
+    <color name="black_87">#de000000</color>
+    <color name="black__54">#8a000000</color>
+    <color name="greyish">#a8a8a8</color>
+    <color name="black">#000000</color>
+    <color name="pumpkin_orange">#fb7c02</color>
+    <color name="black__10">#19000000</color>
+    <color name="cerulean">#0088d2</color>
+    <color name="silver">#cacfd2</color>
+    <color name="black_two">#222222</color>
+    <color name="black_two_87">#de222222</color>
+    <color name="medium_pink">#f03ba2</color>
+    <color name="dark_sky_blue">#3aa2f0</color>
+    <color name="light_grey">#f2f3f3</color>
+    <color name="red">#ff0000</color>
+    <color name="vermillion">#ef1d1d</color>
+    <color name="turtle_green">#77bd49</color>
+    <color name="black_87_two">#de121212</color>
+    <color name="golden">#f1be00</color>
+    <color name="black__38">#61000000</color>
+    <color name="black__70">#b3000000</color>
+
+</resources>
